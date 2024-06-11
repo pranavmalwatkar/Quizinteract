@@ -1,5 +1,3 @@
-Interactive Quiz Project
-Project Structure:
 index.html: Contains the HTML structure for the quiz.
 styles.css: Provides the CSS styling for the quiz interface.
 script.js: Implements the JavaScript functionality to handle the quiz logic.
