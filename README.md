@@ -8,4 +8,4 @@ HTML Structure: A well-structured HTML file with a title, multiple questions wit
 CSS Styling: A CSS file that ensures a visually appealing and user-friendly interface, with proper layout, spacing, stylish fonts, and colors.
 JavaScript Functionality: JavaScript functions that dynamically load questions from the server, track and validate user answers, calculate the score, and display feedback.
 MySQL Database: A MySQL database that stores quiz questions and answers.
-PHP Backend: A PHP script that retrieves questions from the database and serves them as JSON to the frontend.
+PHP Backend: A PHP script that retrieves questions from the database.
